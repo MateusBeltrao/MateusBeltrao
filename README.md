@@ -5,6 +5,7 @@
 ![MateusBeltrao GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusbeltrao&show_icons=true&theme=radical)
 
 
+
 ### Tecnologias que eu uso no meu dia 
 
 <div style="display: inlone_block">
@@ -15,6 +16,8 @@
       <img aling="center" alt="html" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
        <img aling="center" alt="html" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbeltrao&langs_count=8)
 
 Amante da programação e sedento por conhecimento, sempre em busca de aprender e evoluir a cada linha de código.
 
